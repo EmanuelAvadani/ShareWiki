@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "700586093347",
+    "firebase_url": "https://share-wiki.firebaseio.com",
+    "project_id": "share-wiki",
+    "storage_bucket": "share-wiki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700586093347:android:d49c650ed5c2c559",
+        "android_client_info": {
+          "package_name": "tabian.com.instagramclone2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700586093347-umihhua1lcg0lg2pojteqm70pmlqi46g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tabian.com.instagramclone2",
+            "certificate_hash": "94f6946e1257dcfc75db7ad7484c320fbbf9f435"
+          }
+        },
+        {
+          "client_id": "700586093347-o8kssnn0enp1fgl8vvnll8tv7629t7t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRqJ1meXjasoY5malOo_n-eSzNICGbuXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700586093347-o8kssnn0enp1fgl8vvnll8tv7629t7t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
